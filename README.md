@@ -1,13 +1,13 @@
 ## 職業
-👩‍🎓 student
+👩‍🎓 student\
 
 ## 學歷
-🏫 School: Fu Jen Catholic University
-💻 Major: Statistic and Information Science
+🏫 School: Fu Jen Catholic University\
+💻 Major: Statistic and Information Science\
 
 # 聯絡方式
-📧 Email: edith030208@gmail.com
-📱 phone number: 0905664195
+📧 Email: edith030208@gmail.com\
+📱 phone number: 0905664195\
 
 
 
